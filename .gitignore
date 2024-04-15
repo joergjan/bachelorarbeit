@@ -1,3 +1,4 @@
 infos.json
 .env
 .pyc
+__pycache__
