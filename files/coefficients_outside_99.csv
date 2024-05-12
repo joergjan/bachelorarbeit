@@ -1,0 +1,68 @@
+Variable,id,coefficient,skill,ability
+0,a12,-0.1104,,Deductive Reasoning
+1,a27,-0.1004,,Extent Flexibility
+2,s6,-0.0886,Monitoring,
+3,a5,-0.0722,,Written Comprehension
+4,a30,-0.0661,,Manual Dexterity
+5,a31,-0.0591,,Multilimb Coordination
+6,s10,-0.051,Judgment and Decision Making,
+7,s21,-0.0487,Operations Analysis,
+8,s18,-0.0473,Service Orientation,
+9,a48,-0.0444,,Reaction Time
+10,s19,-0.044,Systems Analysis,
+11,s5,-0.0422,Critical Thinking,
+12,a11,-0.041,,Speech Recognition
+13,a42,-0.0395,,Depth Perception
+14,s11,-0.0394,Writing,
+15,a44,-0.0367,,Mathematical Reasoning
+16,a6,-0.0349,,Originality
+17,s13,-0.0346,Learning Strategies,
+18,s35,-0.0331,Troubleshooting,
+19,a3,-0.0304,,Memorization
+20,a33,-0.0285,,Stamina
+21,a36,-0.0266,,Glare Sensitivity
+22,s27,-0.026,Installation,
+23,a18,-0.0238,,Visualization
+24,a9,-0.0233,,Fluency of Ideas
+25,s3,-0.0228,Active Listening,
+26,a16,-0.0217,,Category Flexibility
+27,s17,-0.0211,Management of Personnel Resources,
+28,s4,-0.0194,Social Perceptiveness,
+29,a46,-0.0177,,Peripheral Vision
+30,a8,-0.0162,,Problem Sensitivity
+31,a51,-0.0129,,Spatial Orientation
+32,a19,-0.0122,,Far Vision
+33,s15,-0.0119,Negotiation,
+34,a38,0.011,,Explosive Strength
+35,s29,0.0121,Management of Material Resources,
+36,a45,0.013,,Night Vision
+37,a35,0.0148,,Visual Color Discrimination
+38,a40,0.0153,,Wrist-Finger Speed
+39,s31,0.0188,Operation and Control,
+40,s7,0.0211,Time Management,
+41,s9,0.0222,Coordination,
+42,a17,0.0222,,Time Sharing
+43,a20,0.0235,,Trunk Strength
+44,s33,0.0249,Quality Control Analysis,
+45,a25,0.0278,,Auditory Attention
+46,a15,0.0298,,Written Expression
+47,a7,0.031,,Near Vision
+48,a49,0.031,,Response Orientation
+49,s28,0.032,Management of Financial Resources,
+50,a13,0.0322,,Inductive Reasoning
+51,a4,0.0323,,Speech Clarity
+52,a1,0.0325,,Oral Expression
+53,a43,0.0337,,Dynamic Flexibility
+54,a41,0.0369,,Control Precision
+55,s14,0.0395,Active Learning,
+56,a32,0.0406,,Perceptual Speed
+57,a22,0.0415,,Gross Body Coordination
+58,s34,0.0436,Repairing,
+59,a29,0.0517,,Gross Body Equilibrium
+60,s24,0.0524,Technology Design,
+61,a28,0.058,,Finger Dexterity
+62,s30,0.0584,Mathematics,
+63,s20,0.0675,Systems Evaluation,
+64,a34,0.0738,,Static Strength
+65,s1,0.0742,Reading Comprehension,
+66,s8,0.1036,Complex Problem Solving,

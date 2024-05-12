@@ -1,0 +1,16 @@
+Variable,id,coefficient,skill,ability
+0,a12,-0.1104,,Deductive Reasoning
+1,a27,-0.1004,,Extent Flexibility
+2,s6,-0.0886,Monitoring,
+3,a5,-0.0722,,Written Comprehension
+4,a30,-0.0661,,Manual Dexterity
+5,a31,-0.0591,,Multilimb Coordination
+6,s10,-0.051,Judgment and Decision Making,
+7,a29,0.0517,,Gross Body Equilibrium
+8,s24,0.0524,Technology Design,
+9,a28,0.058,,Finger Dexterity
+10,s30,0.0584,Mathematics,
+11,s20,0.0675,Systems Evaluation,
+12,a34,0.0738,,Static Strength
+13,s1,0.0742,Reading Comprehension,
+14,s8,0.1036,Complex Problem Solving,
