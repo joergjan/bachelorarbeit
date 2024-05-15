@@ -1,16 +1,16 @@
-Variable,id,coefficient,skill,ability
-0,a12,-0.1104,,Deductive Reasoning
-1,a27,-0.1004,,Extent Flexibility
-2,s6,-0.0886,Monitoring,
-3,a5,-0.0722,,Written Comprehension
-4,a30,-0.0661,,Manual Dexterity
-5,a31,-0.0591,,Multilimb Coordination
-6,s10,-0.051,Judgment and Decision Making,
-7,a29,0.0517,,Gross Body Equilibrium
-8,s24,0.0524,Technology Design,
-9,a28,0.058,,Finger Dexterity
-10,s30,0.0584,Mathematics,
-11,s20,0.0675,Systems Evaluation,
-12,a34,0.0738,,Static Strength
-13,s1,0.0742,Reading Comprehension,
-14,s8,0.1036,Complex Problem Solving,
+id,skill,skill_description
+a12,Deductive Reasoning,The ability to apply general rules to specific problems to produce answers that make sense.
+a27,Extent Flexibility,"The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+s6,Monitoring,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+a5,Written Comprehension,The ability to read and understand information and ideas presented in writing.
+a31,Multilimb Coordination,"The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+a30,Manual Dexterity,"The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+s10,Judgment and Decision Making,Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+a29,Gross Body Equilibrium,The ability to keep or regain your body balance or stay upright when in an unstable position.
+s24,Technology Design,Generating or adapting equipment and technology to serve user needs.
+s30,Mathematics,Using mathematics to solve problems.
+a28,Finger Dexterity,"The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+s20,Systems Evaluation,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+a34,Static Strength,"The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+s1,Reading Comprehension,Understanding written sentences and paragraphs in work-related documents.
+s8,Complex Problem Solving,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.

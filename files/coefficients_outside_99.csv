@@ -1,68 +1,69 @@
-Variable,id,coefficient,skill,ability
-0,a12,-0.1104,,Deductive Reasoning
-1,a27,-0.1004,,Extent Flexibility
-2,s6,-0.0886,Monitoring,
-3,a5,-0.0722,,Written Comprehension
-4,a30,-0.0661,,Manual Dexterity
-5,a31,-0.0591,,Multilimb Coordination
-6,s10,-0.051,Judgment and Decision Making,
-7,s21,-0.0487,Operations Analysis,
-8,s18,-0.0473,Service Orientation,
-9,a48,-0.0444,,Reaction Time
-10,s19,-0.044,Systems Analysis,
-11,s5,-0.0422,Critical Thinking,
-12,a11,-0.041,,Speech Recognition
-13,a42,-0.0395,,Depth Perception
-14,s11,-0.0394,Writing,
-15,a44,-0.0367,,Mathematical Reasoning
-16,a6,-0.0349,,Originality
-17,s13,-0.0346,Learning Strategies,
-18,s35,-0.0331,Troubleshooting,
-19,a3,-0.0304,,Memorization
-20,a33,-0.0285,,Stamina
-21,a36,-0.0266,,Glare Sensitivity
-22,s27,-0.026,Installation,
-23,a18,-0.0238,,Visualization
-24,a9,-0.0233,,Fluency of Ideas
-25,s3,-0.0228,Active Listening,
-26,a16,-0.0217,,Category Flexibility
-27,s17,-0.0211,Management of Personnel Resources,
-28,s4,-0.0194,Social Perceptiveness,
-29,a46,-0.0177,,Peripheral Vision
-30,a8,-0.0162,,Problem Sensitivity
-31,a51,-0.0129,,Spatial Orientation
-32,a19,-0.0122,,Far Vision
-33,s15,-0.0119,Negotiation,
-34,a38,0.011,,Explosive Strength
-35,s29,0.0121,Management of Material Resources,
-36,a45,0.013,,Night Vision
-37,a35,0.0148,,Visual Color Discrimination
-38,a40,0.0153,,Wrist-Finger Speed
-39,s31,0.0188,Operation and Control,
-40,s7,0.0211,Time Management,
-41,s9,0.0222,Coordination,
-42,a17,0.0222,,Time Sharing
-43,a20,0.0235,,Trunk Strength
-44,s33,0.0249,Quality Control Analysis,
-45,a25,0.0278,,Auditory Attention
-46,a15,0.0298,,Written Expression
-47,a7,0.031,,Near Vision
-48,a49,0.031,,Response Orientation
-49,s28,0.032,Management of Financial Resources,
-50,a13,0.0322,,Inductive Reasoning
-51,a4,0.0323,,Speech Clarity
-52,a1,0.0325,,Oral Expression
-53,a43,0.0337,,Dynamic Flexibility
-54,a41,0.0369,,Control Precision
-55,s14,0.0395,Active Learning,
-56,a32,0.0406,,Perceptual Speed
-57,a22,0.0415,,Gross Body Coordination
-58,s34,0.0436,Repairing,
-59,a29,0.0517,,Gross Body Equilibrium
-60,s24,0.0524,Technology Design,
-61,a28,0.058,,Finger Dexterity
-62,s30,0.0584,Mathematics,
-63,s20,0.0675,Systems Evaluation,
-64,a34,0.0738,,Static Strength
-65,s1,0.0742,Reading Comprehension,
-66,s8,0.1036,Complex Problem Solving,
+id,skill,skill_description
+a12,Deductive Reasoning,The ability to apply general rules to specific problems to produce answers that make sense.
+a27,Extent Flexibility,"The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+s6,Monitoring,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+a5,Written Comprehension,The ability to read and understand information and ideas presented in writing.
+a31,Multilimb Coordination,"The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+a30,Manual Dexterity,"The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+s10,Judgment and Decision Making,Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+s18,Service Orientation,Actively looking for ways to help people.
+s21,Operations Analysis,Analyzing needs and product requirements to create a design.
+s5,Critical Thinking,"Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems."
+s19,Systems Analysis,"Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes."
+a11,Speech Recognition,The ability to identify and understand the speech of another person.
+s11,Writing,Communicating effectively in writing as appropriate for the needs of the audience.
+a48,Reaction Time,"The ability to quickly respond (with the hand, finger, or foot) to a signal (sound, light, picture) when it appears."
+a42,Depth Perception,"The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object."
+a6,Originality,"The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem."
+s13,Learning Strategies,Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.
+s35,Troubleshooting,Determining causes of operating errors and deciding what to do about it.
+a44,Mathematical Reasoning,The ability to choose the right mathematical methods or formulas to solve a problem.
+a33,Stamina,The ability to exert yourself physically over long periods of time without getting winded or out of breath.
+a3,Memorization,"The ability to remember information such as words, numbers, pictures, and procedures."
+s4,Social Perceptiveness,Being aware of others' reactions and understanding why they react as they do.
+a18,Visualization,The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged.
+a16,Category Flexibility,The ability to generate or use different sets of rules for combining or grouping things in different ways.
+s17,Management of Personnel Resources,"Motivating, developing, and directing people as they work, identifying the best people for the job."
+a9,Fluency of Ideas,"The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity)."
+s3,Active Listening,"Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times."
+a36,Glare Sensitivity,The ability to see objects in the presence of a glare or bright lighting.
+a46,Peripheral Vision,The ability to see objects or movement of objects to one's side when the eyes are looking ahead.
+s27,Installation,"Installing equipment, machines, wiring, or programs to meet specifications."
+a47,Rate Control,The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene.
+a51,Spatial Orientation,The ability to know your location in relation to the environment or to know where other objects are in relation to you.
+s15,Negotiation,Bringing others together and trying to reconcile differences.
+a8,Problem Sensitivity,"The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem."
+a19,Far Vision,The ability to see details at a distance.
+a10,Selective Attention,The ability to concentrate on a task over a period of time without being distracted.
+a40,Wrist-Finger Speed,"The ability to make fast, simple, repeated movements of the fingers, hands, and wrists."
+a38,Explosive Strength,"The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object."
+a35,Visual Color Discrimination,"The ability to match or detect differences between colors, including shades of color and brightness."
+s31,Operation and Control,Controlling operations of equipment or systems.
+s29,Management of Material Resources,"Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work."
+s33,Quality Control Analysis,"Conducting tests and inspections of products, services, or processes to evaluate quality or performance."
+s9,Coordination,Adjusting actions in relation to others' actions.
+s7,Time Management,Managing one's own time and the time of others.
+a17,Time Sharing,"The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources)."
+a25,Auditory Attention,The ability to focus on a single source of sound in the presence of other distracting sounds.
+a20,Trunk Strength,"The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without ""giving out"" or fatiguing."
+a49,Response Orientation,"The ability to choose quickly between two or more movements in response to two or more different signals (lights, sounds, pictures). It includes the speed with which the correct response is started with the hand, foot, or other body part."
+a7,Near Vision,The ability to see details at close range (within a few feet of the observer).
+s28,Management of Financial Resources,"Determining how money will be spent to get the work done, and accounting for these expenditures."
+a15,Written Expression,The ability to communicate information and ideas in writing so others will understand.
+a13,Inductive Reasoning,The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+a43,Dynamic Flexibility,"The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs."
+a1,Oral Expression,The ability to communicate information and ideas in speaking so others will understand.
+a4,Speech Clarity,The ability to speak clearly so others can understand you.
+a41,Control Precision,The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions.
+s14,Active Learning,Understanding the implications of new information for both current and future problem-solving and decision-making.
+a32,Perceptual Speed,"The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object."
+a22,Gross Body Coordination,"The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion."
+s34,Repairing,Repairing machines or systems using the needed tools.
+a29,Gross Body Equilibrium,The ability to keep or regain your body balance or stay upright when in an unstable position.
+s24,Technology Design,Generating or adapting equipment and technology to serve user needs.
+s30,Mathematics,Using mathematics to solve problems.
+a28,Finger Dexterity,"The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+s20,Systems Evaluation,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+a34,Static Strength,"The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+s1,Reading Comprehension,Understanding written sentences and paragraphs in work-related documents.
+s8,Complex Problem Solving,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
