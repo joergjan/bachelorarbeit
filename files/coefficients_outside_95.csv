@@ -1,16 +1,16 @@
-id,skill,skill_description
-a12,Deductive Reasoning,The ability to apply general rules to specific problems to produce answers that make sense.
-a27,Extent Flexibility,"The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
-s6,Monitoring,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
-a5,Written Comprehension,The ability to read and understand information and ideas presented in writing.
-a30,Manual Dexterity,"The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
-a31,Multilimb Coordination,"The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
-s21,Operations Analysis,Analyzing needs and product requirements to create a design.
-a29,Gross Body Equilibrium,The ability to keep or regain your body balance or stay upright when in an unstable position.
-s24,Technology Design,Generating or adapting equipment and technology to serve user needs.
-s30,Mathematics,Using mathematics to solve problems.
-a28,Finger Dexterity,"The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
-s20,Systems Evaluation,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
-a34,Static Strength,"The ability to exert maximum muscle force to lift, push, pull, or carry objects."
-s1,Reading Comprehension,Understanding written sentences and paragraphs in work-related documents.
-s8,Complex Problem Solving,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+id,coefficient,skill,skill_description
+a12,-0.1107,Deductive Reasoning,The ability to apply general rules to specific problems to produce answers that make sense.
+a27,-0.1043,Extent Flexibility,"The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+s6,-0.0943,Monitoring,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+a5,-0.0807,Written Comprehension,The ability to read and understand information and ideas presented in writing.
+a30,-0.0636,Manual Dexterity,"The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+a31,-0.06,Multilimb Coordination,"The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+s21,-0.052,Operations Analysis,Analyzing needs and product requirements to create a design.
+a29,0.053,Gross Body Equilibrium,The ability to keep or regain your body balance or stay upright when in an unstable position.
+s24,0.0564,Technology Design,Generating or adapting equipment and technology to serve user needs.
+s30,0.0568,Mathematics,Using mathematics to solve problems.
+a28,0.0572,Finger Dexterity,"The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+s20,0.0613,Systems Evaluation,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+a34,0.0748,Static Strength,"The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+s1,0.0841,Reading Comprehension,Understanding written sentences and paragraphs in work-related documents.
+s8,0.1067,Complex Problem Solving,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
